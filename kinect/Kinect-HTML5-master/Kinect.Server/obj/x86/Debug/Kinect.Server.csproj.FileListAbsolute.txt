@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\Kinect-HTML5-master\Kinect-HTML5-master\Kinect.Server\bin\Debug\Kinect.Server.exe
+C:\Users\lenovo\Desktop\Kinect-HTML5-master\Kinect-HTML5-master\Kinect.Server\bin\Debug\Kinect.Server.pdb
+C:\Users\lenovo\Desktop\Kinect-HTML5-master\Kinect-HTML5-master\Kinect.Server\bin\Debug\Fleck.dll
+C:\Users\lenovo\Desktop\Kinect-HTML5-master\Kinect-HTML5-master\Kinect.Server\bin\Debug\Microsoft.Kinect.dll
+C:\Users\lenovo\Desktop\Kinect-HTML5-master\Kinect-HTML5-master\Kinect.Server\bin\Debug\Microsoft.Kinect.xml
+C:\Users\lenovo\Desktop\Kinect-HTML5-master\Kinect-HTML5-master\Kinect.Server\obj\x86\Debug\Kinect.Server.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Kinect-HTML5-master\Kinect-HTML5-master\Kinect.Server\obj\x86\Debug\Kinect.Server.exe
+C:\Users\lenovo\Desktop\Kinect-HTML5-master\Kinect-HTML5-master\Kinect.Server\obj\x86\Debug\Kinect.Server.pdb
